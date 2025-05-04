@@ -1,0 +1,53 @@
+.logo{
+    width:70px;
+    height:80px;
+}
+.food-bg-container{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/foodmunch-banner-bg.png");
+    height:100vh;
+    background-size: cover;
+
+}
+.n1{
+    font-family: "Roboto";
+     color: #323f4b;
+}
+.n2{
+    font-family: "Roboto";
+     color: #323f4b;
+}
+.n3{
+    font-family: "Roboto";
+     color: #323f4b;
+}
+.n4{
+    font-family: "Roboto";
+     color: #323f4b;
+}
+.food-head{
+    color: bisque;
+    font-family: Roboto;
+}
+.food-content{
+    color:antiquewhite;
+    font-family: Roboto;   
+}
+.b-1{
+    color:white;
+    background-color: #d0b200;
+    width:130px;
+    height:45px;
+    border-radius: 8px;
+    margin-right: 10px;
+
+}
+.b-2{
+    color: #d0b200;
+    background-color:transparent;
+    width:135px;
+    height:45px;
+    border-style:solid;
+    border-radius:8px;
+    border-width: 1px;
+    border-color: #d0b200;
+}

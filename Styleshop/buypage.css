@@ -1,0 +1,47 @@
+.top-section{
+    background-image:url('https://static.vecteezy.com/system/resources/previews/004/299/815/non_2x/online-shopping-on-phone-buy-sell-business-digital-web-banner-application-money-advertising-payment-ecommerce-illustration-search-vector.jpg');
+    height:30vh;
+    background-size: cover;
+}
+.top-section-mainheading{
+    font-style:italic;
+    font-family: "Caveat";
+    font-size:32px;
+    text-align: right;
+    color:black;
+    padding:20px;
+    font-weight: bold;
+    
+}
+.bottom-section{
+    background-color: lightblue;
+    height:70vh;
+    padding:15px;
+    text-align:center;
+}
+.bottom-img{
+    height:64px;
+    width:64px;
+}
+.price-card{
+    background-color:white;
+    background-size: cover;
+    text-align: center;
+    margin:20px;
+    padding:10px;
+    border-radius:10px;
+    width:140px;
+
+}
+.card-description{
+    font-size:12px;
+    font-weight:normal;
+    font-family:"Roboto";
+}
+.card-price{
+    font-size:16px;
+    font-style:"bold";
+    font-family:"Roboto";
+    font-weight:600;
+
+}

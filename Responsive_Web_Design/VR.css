@@ -1,0 +1,44 @@
+
+#nav_item1{
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    color: rebeccapurple;
+} 
+#nav_item2{
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    color: rebeccapurple;
+
+} 
+#nav_item3{
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    color: rebeccapurple;
+
+} 
+#nav_item4{
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    color: rebeccapurple;
+
+} 
+.bg-container{
+    background-image: url("https://png.pngtree.com/thumb_back/fw800/background/20240928/pngtree-vr-headset-in-front-of-glowing-city-image_16268637.jpg");
+    height:100vh;
+    background-size: cover;
+}
+.content-heading{
+    color: aliceblue;
+}
+.content-button{
+    background-color: #d0b200;
+    border-radius: 5px;
+    height:35px;
+    width:100px;
+    font-family:'roboto';
+    font-weight: bold;
+    border-color:palevioletred;
+}
+.bg-container{
+    text-align: center;
+}
